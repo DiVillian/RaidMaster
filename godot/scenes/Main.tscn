@@ -1,0 +1,8 @@
+; A minimal main scene for the Godot project.
+[gd_scene load_steps=2 format=3]
+
+[node name="Main" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+position = Vector2(0, 0)

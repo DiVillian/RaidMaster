@@ -1,0 +1,11 @@
+; Engine configuration
+config_version=5
+
+[application]
+config/name="RaidMaster"
+config/description="Boss Raid Roguelike prototype"
+config/icon="res://icon.png"
+
+## Rendering settings can be customized later. Forward+ is a good default for desktop projects.
+[rendering]
+renderer/rendering_method="forward_plus"
